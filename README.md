@@ -42,8 +42,9 @@ It provides an **affordable, space-conscious solution** to improve air quality i
 ## 🤝 Team  
 - **Supervisor:** Eng. Udaya Dampage  
 - **Team Members:**  
-  - Veenavee Samarasinghe  
-  - Dinuka Nethsara  
+  - Veenavee Samarasinghe
+  - Dumini Hirunika
+  - Dinuka Nethsara 
 
 ---
 
